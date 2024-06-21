@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListConsume</string>
+    <string name="error">¡Algo salio mal!</string>
+    <string name="title">Categorias</string>
+</resources>
